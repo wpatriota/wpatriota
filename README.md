@@ -31,3 +31,18 @@ Here are some ideas to get you started:
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+### 📊 Stats
+
+![Wpatriota's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpatriota&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=wpatriota&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Wpatriota's Coding Journey</h3></summary>
+   For the last ten years, I've been fully dedicated to my career, searching to improve myself. My interests are innovation and system areas, also I work very well with solutions to problems, processes, and teams.
+
+[website]: https://wpatriota.github.io
+[youtube]: -
