@@ -1,49 +1,80 @@
-# 🏄‍♂️ Wellington Patriota
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Wellington Patriota, IT Director and Fullstack Developer" src="assets/hero-dark.svg" width="100%">
+</picture>
 
-**`Fullstack Developer`**
+<p align="center">
+  <a href="https://wpatriota.github.io"><img alt="Website" src="https://img.shields.io/badge/wpatriota.github.io-0b0f17?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://x.com/wpatriota"><img alt="X" src="https://img.shields.io/badge/@wpatriota-0b0f17?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:w_patriota@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0b0f17?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+</p>
 
-<!--
-**wpatriota/wpatriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+IT Director at a financial services group and fullstack developer with **10+ years** turning messy processes into simple software. I lead technology end to end, from governance and infrastructure to the products themselves, and I still ship code every week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Products** of my own, from restaurant SaaS to marketplace intelligence and live games.
+- **Data and AI**: open government data, decision dashboards and agents that do the tedious work.
+- **IT leadership**: documenting, governing and modernizing the systems a business runs on.
 
+## Projects
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### Products
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-products-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-products-light.svg">
+  <img alt="Don Menu, Radar Seller, Fogo x Gelo and Personal ERP" src="assets/projects-products-dark.svg" width="100%">
+</picture>
 
-<br />
+### Data & AI
 
-### 📊 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-data-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-data-light.svg">
+  <img alt="Big Data Brasil, Arremata and Governance Data Hub" src="assets/projects-data-dark.svg" width="100%">
+</picture>
 
-![Wpatriota's GitHub stats](https://github-readme-stats.vercel.app/api?username=wpatriota&show_icons=true&theme=gruvbox)
+<sub>Big Data Brasil is open source: <a href="https://github.com/wpatriota/BigDataBrasil">wpatriota/BigDataBrasil</a></sub>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=wpatriota&theme=gruvbox&border_radius=4.5) -->
+### IT leadership
 
-#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-it-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-it-light.svg">
+  <img alt="Tech Command Center, Corporate Platforms and Websites for Small Businesses" src="assets/projects-it-dark.svg" width="100%">
+</picture>
 
-<details>
- <summary><h3>👨‍💻 Wpatriota's Coding Journey</h3></summary>
-   For the last ten years, I've been fully dedicated to my career, searching to improve myself. My interests are innovation and system areas, also I work very well with solutions to problems, processes, and teams.
+### Earlier open source
 
-[website]: https://wpatriota.github.io
-[youtube]: -
+| Project | What it is | Stack |
+|---|---|---|
+| [public-donation-symfony-react](https://github.com/wpatriota/public-donation-symfony-react) | Donation management with an API-first backend | Symfony · API Platform · React |
+| [public-systemdonation](https://github.com/wpatriota/public-systemdonation) | Donation control system | PHP · TypeScript · Docker |
+| [public-vendas](https://github.com/wpatriota/public-vendas) | Customers, products and sales management | PHP · TypeScript · Docker |
+| [movie-app](https://github.com/wpatriota/movie-app) | Movie catalog built as a hiring challenge | Laravel · React |
+| [school-app](https://github.com/wpatriota/school-app) | School management | Laravel |
+| [nutri-app](https://github.com/wpatriota/nutri-app) | Nutrition app | React |
+| [nodejs-crud-bookmark](https://github.com/wpatriota/nodejs-crud-bookmark) | Bookmark manager CRUD | Node.js |
+| [findfix](https://github.com/wpatriota/findfix) | Small management system | Symfony |
+| [invests-app](https://github.com/wpatriota/invests-app) | Parses investment statements from text files | PHP |
+| [wpatriota.github.io](https://github.com/wpatriota/wpatriota.github.io) | Personal portfolio | React |
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cangular%2Cnodejs%2Cvite%2Cpython%2Cphp%2Claravel%2Csymfony%2Cwordpress%2Cmysql%2Cpostgres%2Cdocker%2Clinux&perline=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cangular%2Cnodejs%2Cvite%2Cpython%2Cphp%2Claravel%2Csymfony%2Cwordpress%2Cmysql%2Cpostgres%2Cdocker%2Clinux&perline=8&theme=light">
+  <img alt="TypeScript, JavaScript, React, Next.js, Angular, Node.js, Vite, Python, PHP, Laravel, Symfony, WordPress, MySQL, PostgreSQL, Docker, Linux" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cangular%2Cnodejs%2Cvite%2Cpython%2Cphp%2Claravel%2Csymfony%2Cwordpress%2Cmysql%2Cpostgres%2Cdocker%2Clinux&perline=8&theme=dark">
+</picture>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wpatriota/wpatriota/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wpatriota/wpatriota/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/wpatriota/wpatriota/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<p align="center"><sub>Most of my work lives in private repositories for products and companies. Happy to talk about it.</sub></p>
